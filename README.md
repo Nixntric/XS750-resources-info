@@ -34,7 +34,7 @@ The XS750-850 owners groups on facebook (both of them) are phenomenal resources 
 
 Be very specific when searching for carburetor parts, and parts in general for these bikes. The early years are very different from the later years, the bikes underwent drastic changes later on. The ‘80s bikes don’t even share a top end. 
 
-Second gear is known to go out, or have trouble engaging. Google XS750 second gear fix for a solution. 
+Second gear is known to go out, or have trouble engaging. Solution here: https://www.youtube.com/watch?v=z-O7YTk93qU
 
 1976-1977 XS 750s use Mikuni BS34 MK I carburetors. You can identify them by removing the float bowl and checking jet locations. 
 
